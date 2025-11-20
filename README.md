@@ -478,9 +478,6 @@ Contributions are welcome! Please follow these steps:
 - Write unit tests for new features
 - Update documentation as needed
 
-## 📝 License
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 🙏 Acknowledgments
 
@@ -497,6 +494,10 @@ For questions or support, please open an issue on GitHub.
 
 ---
 
-**Made with ❤️ and Python** | © 2025 Pratyush Srivastava
+<div align="center">
 
-[GitHub](https://github.com/pratyushsrivastava500) | [Repository](https://github.com/pratyushsrivastava500/Uber-Ride-Prediction)
+**Made with ❤️ and Python** | © 2025 Pratyush Srivastava  
+[GitHub](https://github.com/pratyushsrivastava500) • [Repository](https://github.com/pratyushsrivastava500/Uber-Ride-Prediction)
+
+</div>
+
