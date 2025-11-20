@@ -497,7 +497,6 @@ For questions or support, please open an issue on GitHub.
 <div align="center">
 
 **Made with ❤️ and Python** | © 2025 Pratyush Srivastava  
-[GitHub](https://github.com/pratyushsrivastava500) • [Repository](https://github.com/pratyushsrivastava500/Uber-Ride-Prediction)
 
 </div>
 
